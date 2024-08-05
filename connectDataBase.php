@@ -1,9 +1,9 @@
 <?php
     class DataBase{
         private static $mysqlhost = "localhost";
-        private static $dbname = "handball";
-        private static $userAdmin = "root";
-        private static $mp = "";
+        private static $dbname = "u924654367_handball";
+        private static $userAdmin = "u924654367_root";
+        private static $mp = "J34nP13rr3";
 
         public static $connect = null;
 
