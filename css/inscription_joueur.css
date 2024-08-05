@@ -1,0 +1,32 @@
+.cadre_profil{
+    border: 1px solid gray;
+    height: 120px;
+}
+table {
+    border-collapse: collapse;
+}
+td, tr {
+    border: 1px solid black;
+    text-align: center;
+}
+.input_edit{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 500px;
+}
+.input_edit1{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100px;
+}
+.input_edit:active{
+    border: 10px solid blue;
+}
+.input_naissance{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 150px;
+}
+.lieu_naissance{
+    width: 300px;
+}
